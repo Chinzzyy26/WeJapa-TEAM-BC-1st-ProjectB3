@@ -25,11 +25,14 @@ body {
 }
 
 .lowerpara {
+<<<<<<< HEAD
     font-size: small;
     text-align: left;
     margin-left: 110px;
     display: block;
     color: #86868b;
+=======
+>>>>>>> 86dda587d7af7bb8987bb9b2bbfb4ceff7caf5e0
     background-color: #f3f3f3 !important;
 }
 

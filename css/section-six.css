@@ -2,6 +2,7 @@
 .icons {
     text-align: center;
 }
+<<<<<<< HEAD
 
 h3 {
     font-size: 40px;
@@ -28,10 +29,45 @@ h3 {
 }
 
 .image-3 {
+=======
+
+.icons h3 {
+    font-size: 60px;
+    padding-top: 25px;
+    margin-bottom: 50px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 25px;
+    float: left;
+}
+
+.image-2 {
+>>>>>>> 86dda587d7af7bb8987bb9b2bbfb4ceff7caf5e0
     justify-content: center;
     align-self: flex-start;
 }
 
+<<<<<<< HEAD
+.image4 {
+=======
+.image-3 {
+>>>>>>> 86dda587d7af7bb8987bb9b2bbfb4ceff7caf5e0
+    justify-content: center;
+    align-self: flex-start;
+}
+
+<<<<<<< HEAD
+.image5 {
+    justify-content: center;
+    align-self: flex-end;
+}
+
+------*/
+=======
 .image4 {
     justify-content: center;
     align-self: flex-start;
@@ -41,5 +77,4 @@ h3 {
     justify-content: center;
     align-self: flex-end;
 }
-
-------*/
+>>>>>>> 86dda587d7af7bb8987bb9b2bbfb4ceff7caf5e0
