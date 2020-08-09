@@ -1,0 +1,21 @@
+#main-section {
+  background-color: #f3f3f3;
+  font-family: Montserrat, sans-serif;
+  margin: 0 auto;
+  text-align: center;
+}
+.main-heading {
+  padding: 50px 200px;
+  font-weight: 600;
+  font-size: 5rem;
+  line-height: 1;
+}
+.heading-text {
+  padding: 10px 250px;
+  font-weight: 500px;
+  font-size: 1.5rem;
+}
+.heading-video {
+  display: inline-block;
+  width: 100%;
+}
