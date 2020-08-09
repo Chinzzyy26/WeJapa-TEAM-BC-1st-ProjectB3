@@ -1,6 +1,5 @@
 /*---------------------nav section----------------------*/
 
-<<<<<<< HEAD
 .marr {
     margin-left: 350px;
     font-family: Arial, Helvetica, sans-serif;
@@ -21,8 +20,6 @@
     color: white;
 }
 
-=======
->>>>>>> 86dda587d7af7bb8987bb9b2bbfb4ceff7caf5e0
 .allfont {
     padding: 6px 14px;
     display: block;
@@ -52,7 +49,6 @@
     box-sizing: content-box;
     pointer-events: auto;
     letter-spacing: normal;
-<<<<<<< HEAD
 }
 
 .lowerpara {
@@ -158,90 +154,6 @@ h3 {
 
 /*---------------------main section----------------------*/
 
-=======
-}
-
-.lowerpara {
-    font-size: small;
-    text-align: left;
-    margin-left: 110px;
-    display: block;
-    color: #86868b;
-}
-
-
-/*---------------------firstslide section----------------------*/
-
-.carousel-inner {
-    text-align: center;
-}
-
-.intro {
-    margin-top: 70px;
-    padding: 20px 100px;
-}
-
-.carousel-inner {
-    padding: 50px 100px;
-}
-
-.carousel-intro {
-    font-weight: 600;
-    font-size: 6rem;
-}
-
-
-/* carousel-card */
-
-.card {
-    padding: 30px 30px;
-}
-
-.card-title {
-    font-weight: 500;
-    font-size: 2.5rem;
-}
-
-.card-text {
-    font-weight: 400;
-    font-size: 1.5rem;
-}
-
-
-/*---------------------cards section----------------------*/
-
-.container-fluid1 {
-    background-color: #f3f3f3;
-}
-
-#bx-1 {
-    border-top-left-radius: 23px;
-}
-
-#bx-2 {
-    border-top-right-radius: 23px;
-}
-
-#bx-3 {
-    border-bottom-left-radius: 23px;
-}
-
-#bx-4 {
-    border-bottom-right-radius: 23px;
-}
-
-#bx-5 {
-    border-radius: 23px !important;
-}
-
-#bx-6 {
-    border-radius: 23px !important;
-}
-
-
-/*---------------------main section----------------------*/
-
->>>>>>> 86dda587d7af7bb8987bb9b2bbfb4ceff7caf5e0
 #main-section {
     background-color: #f3f3f3;
     font-family: Montserrat, sans-serif;
@@ -272,7 +184,6 @@ h3 {
 
 .icons {
     text-align: center;
-<<<<<<< HEAD
 }
 
 .icons h3 {
@@ -354,47 +265,3 @@ h3 {
 
 
 /*refer to css/footer.css and css/footer.css for more footer styles.|*/
-=======
-}
-
-.icons h3 {
-    font-size: 30px;
-    padding-top: 35px;
-    margin-bottom: 10px;
-    font-weight: 600;
-}
-
-.image-container {
-    display: flex;
-    justify-content: center;
-    margin: 10px;
-    padding: 25px;
-    float: left;
-}
-
-.image-2 {
-    justify-content: center;
-    align-self: flex-start;
-}
-
-.image-3 {
-    justify-content: center;
-    align-self: flex-start;
-}
-
-.image4 {
-    justify-content: center;
-    align-self: flex-start;
-}
-
-.image5 {
-    justify-content: center;
-    align-self: flex-end;
-}
-
-
-/*---------------------footer section----------------------*/
-
-
-/*refer to footer.css for footer styles.|*/
->>>>>>> 86dda587d7af7bb8987bb9b2bbfb4ceff7caf5e0
