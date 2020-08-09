@@ -1,0 +1,141 @@
+.header{
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+    padding: 84px 0px 34px;
+    font-size: 17px;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
+body, html {
+    height: 100%;
+    display: grid;
+  }
+  .main {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+body{
+    background-color:#f0f0f2;
+    border-top: 1px solid transparent;
+    margin-top: -1px;
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-style: normal;
+    position: relative;
+}
+.info{
+     display: inline-block;
+    
+     
+}
+.credit{
+    background-color: #fff;
+    width: 519px;
+    min-height: 325px;
+    margin: 5px 10px 5px 65px;
+    text-align: center;
+}
+
+.fast{
+        background-color: #fff;
+        width: 519px;
+        min-height: 325px;
+        margin: 10px 10px 5px 65px;
+        text-align: center;
+}
+.discount{
+    background-color: #fff;
+    width: 519px;
+    min-height: 325px;
+    margin: 10px 10px 5px 65px;
+    text-align: center;
+}
+.cashback{
+    background-color: #fff;
+    width: 519px;
+    min-height: 650px;
+    margin: -1000px 50px 45px 600px;
+    text-align:center;
+}
+.engraving{
+        background-color: #fff;
+        width: 519px;
+        min-height: 325px;
+        margin: -35px 50px 100px 600px;
+        text-align: center;
+}
+.case{
+    width:480px;
+    height:165px;
+}
+
+h4{
+    font-size: 32px;
+}
+
+li, p{
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: SF Pro Text,Myriad Set Pro,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    padding-bottom: 4px;
+  
+}
+ul{
+    list-style-type: none;
+    width: 300px;
+}
+.breakdown{
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: SF Pro Text,Myriad Set Pro,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    padding-bottom: 4px;
+}
+.apple{
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.contact{
+    margin-left: 140px;
+}
+
+.column1{
+    margin-left: 150px;
+    width: auto;
+}  
+.column2{
+        margin-left: 300px;
+        text-align: left;
+        margin-top: -20%; 
+        width: auto; 
+}
+    .column3{
+        margin-left: 500px;
+        text-align: left;
+        margin-top: -19%; 
+        width: auto;    
+    }
+.column4{
+        margin-left: 700px;
+        text-align: left;
+        margin-top:-17.9%;
+        width: auto;
+            
+}
+
+.column5{
+    margin-left: 900px;
+    text-align: left;
+    margin-top: -18%;
+    width: auto;
+    
+}

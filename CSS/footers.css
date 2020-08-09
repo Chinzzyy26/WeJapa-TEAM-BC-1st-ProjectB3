@@ -1,4 +1,4 @@
-.allfont{
+.allfont {
     padding: 6px 14px;
     display: block;
     color: #515154;
@@ -12,8 +12,10 @@
     padding: 0;
     pointer-events: auto;
     letter-spacing: normal;
+    background-color: #f3f3f3;
 }
-.allhead{
+
+.allhead {
     padding: 6px14px;
     display: block;
     color: #515154;
@@ -27,10 +29,11 @@
     pointer-events: auto;
     letter-spacing: normal;
 }
-.lowerpara{
+
+.lowerpara {
     font-size: small;
     text-align: left;
     margin-left: 110px;
     display: block;
     color: #86868b;
-    }
+}

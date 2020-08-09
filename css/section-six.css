@@ -1,38 +1,45 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet');
-.container {
-    
+.icons {
+    text-align: center;
 }
-.icons{
-	text-align: center;
-}
-.icons h3{
-	font-size: 60px;
-	padding-top: 25px;
-	margin-bottom: 50px;
-}
-.wrapper{
 
+h3 {
+    font-size: 40px;
+    font-weight: 700px;
 }
-.image-container{
-	display: flex;
-	justify-content: center;
-	margin:10px;
-	padding: 25px;
-	float: left;
+
+.icon-side {
+    background-color: white;
 }
-.image-2{
-	justify-content: center;
-	align-self: flex-start;
+
+
+/*----
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 25px;
+    float: left;
 }
-.image-3{
-	justify-content: center;
-	align-self: flex-start;
+
+.image-2 {
+    justify-content: center;
+    align-self: flex-start;
 }
-.image4{
-	justify-content: center;
-	align-self: flex-start;
+
+.image-3 {
+    justify-content: center;
+    align-self: flex-start;
 }
-.image5{
-	justify-content: center;
-	align-self: flex-end;
+
+.image4 {
+    justify-content: center;
+    align-self: flex-start;
 }
+
+.image5 {
+    justify-content: center;
+    align-self: flex-end;
+}
+
+------*/
