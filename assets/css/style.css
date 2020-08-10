@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet');
+
 /*---------------------nav section----------------------*/
 
 .marr {
@@ -60,6 +62,33 @@
 }
 
 
+/*---------------------main section----------------------*/
+
+#main-section {
+    background-color: #f3f3f3;
+    font-family: Montserrat, sans-serif;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.main-heading {
+    padding: 50px 200px;
+    font-weight: 600;
+    font-size: 5rem;
+    line-height: 1;
+}
+
+.heading-text {
+    font-weight: 500px;
+    font-size: 1.5rem;
+}
+
+.heading-video {
+    display: inline-block;
+    width: 100%;
+}
+
+
 /*---------------------firstslide section----------------------*/
 
 .carousel-inner {
@@ -77,7 +106,7 @@
 
 .carousel-intro {
     font-weight: 600;
-    font-size: 6rem;
+    font-size: 80px;
 }
 
 
@@ -97,11 +126,20 @@
     font-size: 1.5rem;
 }
 
+.txt {
+    font-size: 40px;
+    font-weight: 300;
+}
+
 
 /*---------------------cards section----------------------*/
 
 .container-fluid1 {
     background-color: #f3f3f3;
+}
+
+.head {
+    font-weight: 500px !important;
 }
 
 #bx-1 {
@@ -131,10 +169,6 @@
 
 /*---------------------section-six section----------------------*/
 
-.slider {
-    background-color: white;
-}
-
 
 /*---------------------secondslide section----------------------*/
 
@@ -149,34 +183,6 @@ h3 {
 
 .icon-side {
     background-color: white;
-}
-
-
-/*---------------------main section----------------------*/
-
-#main-section {
-    background-color: #f3f3f3;
-    font-family: Montserrat, sans-serif;
-    margin: 0 auto;
-    text-align: center;
-}
-
-.main-heading {
-    padding: 50px 200px;
-    font-weight: 600;
-    font-size: 5rem;
-    line-height: 1;
-}
-
-.heading-text {
-    padding: 10px 250px;
-    font-weight: 500px;
-    font-size: 1.5rem;
-}
-
-.heading-video {
-    display: inline-block;
-    width: 100%;
 }
 
 
@@ -219,6 +225,10 @@ h3 {
 .image5 {
     justify-content: center;
     align-self: flex-end;
+}
+
+.slider {
+    background-color: white;
 }
 
 
